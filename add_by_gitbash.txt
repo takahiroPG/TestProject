@@ -3,3 +3,6 @@ git bashでコミット
 vscodeでコミット
 
 fetchテストのため、ブラウザから修正を入れる。
+
+squashテスト1
+squashテスト2
